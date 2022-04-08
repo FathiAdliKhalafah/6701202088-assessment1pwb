@@ -1,2 +1,3 @@
 Nama : Fathi Adli Khalafah
-Nim   : 6701202088
+Nim   : 670120208
+assesment 1
